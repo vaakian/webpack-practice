@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\r\n  name: 'NomadJohn',\r\n  showName: function() {\r\n    console.log(this.name)\r\n  },\r\n  createElement: function() {\r\n    document.write('<h1>Hello, webpack!</h1>')\r\n  }\r\n});\n\n//# sourceURL=webpack:///./src/home.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n\r\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\r\n  name: 'NomadJohn',\r\n  showName: function() {\r\n    console.log(this.name)\r\n  },\r\n  createElement: function() {\r\n    document.write('<h1>Hello, webpack!</h1>')\r\n  }\r\n});\n\n//# sourceURL=webpack:///./src/home.js?");
 
 /***/ }),
 
